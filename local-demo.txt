@@ -1,5 +1,9 @@
 # Learning Git
 
+<<<<<<< HEAD
 Local Repo Demo - feature
+=======
+Local Repo Demo - main
+>>>>>>> main
 main branch update
 feature branch update
