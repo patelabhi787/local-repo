@@ -1,5 +1,1 @@
 # Learning Git
-
-Local Repo Demo - main
-main branch update
-feature branch update
