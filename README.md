@@ -1,1 +1,1 @@
-This is my local repo Git Demo
+This is my local repo for Jenkins Demo
